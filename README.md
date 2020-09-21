@@ -6,6 +6,6 @@ Apart from being a data scientist, I enjoy most of my time being indoors. I am a
 
 Professional Developer, AI Enthusiast, Innovator, Fast Learner
 
-Follow - linkedin.com/in/eryash15/
+Follow - linkedin.com/in/eryash15
 
 E-Mail - eryash15@gmail.com 
