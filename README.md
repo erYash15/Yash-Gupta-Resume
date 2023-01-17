@@ -1,11 +1,12 @@
-# Yash-Gupta-Resume
+Thanks to visit my Profile:
 
-I am currently a final year student studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur. As a part of a compulsory internship, I am working as a Data Science Intern at the Pay1 – Mindsarray Network Private Limited, Mumbai where I work on Machine learning and its application in Computer Vision and Natural Language Processing. I was able to squeeze in some internships in the past as well, notable among them is at IIT-BHU in 2019. On a side for fun I make projects (Yes, that's what I do...). I also guide several undergrad students as a co-founder of the Coding Club at IIIT, Nagpur.
+• I am currently working in Tata Consultancy Services as Data Scientist.
+• I have completed my 6 months Data Science Intern at Pay1 where I work on Deep Learning and its application in Computer Vision. 
+• I was able to squeeze in some internships in the past as well, notable among them being at IIT-BHU in 2019. 
+• On a side for fun I make projects (Yes, that's what I do...). I also guide several undergrad students as a co-founder of the Dot-Slash Coding Club. I am also a competitive coder 4stars @CodeChef.
 
-Apart from being a data scientist, I enjoy most of my time being indoors. I am a foodie, Cinemaphiles, and Gaming Addict. I also love watching YouTube for comedy and knowledge. I spend a large amount of my free time exploring the latest technological advancements in the world especially related to gaming and artificial intelligence.
+You can find me as 'eryash15' on various platforms.
 
 Professional Developer, AI Enthusiast, Innovator, Fast Learner
-
-Follow - linkedin.com/in/eryash15
 
 E-Mail - eryash15@gmail.com 
